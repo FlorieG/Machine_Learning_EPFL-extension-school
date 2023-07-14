@@ -1,8 +1,5 @@
 Hello 
-Sometime I'm alone 
-Sometime I'm not
-Hello
-
-Sometime I'm alone 
-Sometime I'm not
-Hello
+I'm Florie Gosseau,
+I consider myself as a data scientist. I have a phd in introgression of genomic data into crop model. 
+I mainly work with regressive and linear models. Since the end of my college, I haven't work with Python (mainly R and matlab). 
+With this formation I want to take in hand ML models and gain experience with python. 
